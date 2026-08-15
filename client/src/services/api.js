@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://health-ai-agent-3dpr.onrender.com/api';
 
 /**
  * Starts a new call session and fetches the initial greeting audio.
